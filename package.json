@@ -1,20 +1,23 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "homepage": "https://github.com/xenia513/hexlet-js#readme",
   "bugs": {
     "url": "https://github.com/xenia513/hexlet-js/issues"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/xenia513/hexlet-js.git"
   },
   "license": "ISC",
-  "author": "",
-  "type": "commonjs",
+  "author": "xenia513",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
