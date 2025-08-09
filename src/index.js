@@ -1,5 +1,5 @@
-import _ from "lodash"
+import _ from 'lodash'
 export default (array) => {
-	const lastItem = _.last(array)
-	return lastItem
+  const lastItem = _.last(array)
+  return lastItem
 }
