@@ -1,1 +1,1 @@
-make say-hello
+const say-hello = () => console.log(Hello, World!)
