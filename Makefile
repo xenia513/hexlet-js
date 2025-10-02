@@ -1,1 +1,1 @@
-const say-hello = () => console.log(Hello, World!)
+say-hello: echo "Hello, World!"
